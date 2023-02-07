@@ -127,7 +127,7 @@ PS. При перегляді користувачів без підписки, 
 - Subscription Premium Renew, Subscription_Premium_Renew_Membership (Yearly, Monthly)
 - Add Payment Method Success, Add_Payment_Method_Success_Payment_Method (Debit, Credit) - Додають багато Debit і Credit карт, тобто активно отримують гроші
 - Chat_Conversation_Opened_Transaction_type (AutoPayment) - Ось тут троби дивно, бо на перший погляд, якщо ти заходиш в чат про AutoPayment, то ти повинен відміняти підписку, але схоже що це використовуються для налуштування оплати
-- Add_Vehicle_Success_Temporary (false) - Додають авто не в аренду
+- Add_Vehicle_Success_Temporary (false) - Додають авто не в оренду
 - Calculator View - Схоже у вас гарні ціни))
 - user_state(NY) - Один з найрозвинутіших штатів, гарний оборот автівок
 - Add_Vehicle_Success_Make (Jaguar) - Напевно на дорогі автівки велика комісія, і без підписки ніяк
